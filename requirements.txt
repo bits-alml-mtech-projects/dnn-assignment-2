@@ -1,0 +1,7 @@
+tensorflow>=2.10
+tensorflow-datasets>=4.0
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
